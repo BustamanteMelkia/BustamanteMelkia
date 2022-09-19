@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melquiades Bustamante</h1>
-<h3 align="center">Computer Science Engineering focused on web development</h3>
+<h3 align="center">Computer Science Engineer focused on web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bustamantemelkia&label=Profile%20views&color=0e75b6&style=flat" alt="bustamantemelkia" /> </p>
 
